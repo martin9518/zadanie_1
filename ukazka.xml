@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<osoba>
+<meno krstne="Martin" priezvisko="Straka"/>
+</osoba>
+<adresa>
+<adresa cislo="130" mesto="Korytárky" psc="96204"/>
+</adresa>
+</root>
